@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27b8a6fe.css",
+    "main.js": "/static/js/main.f81b6bd0.js",
+    "static/media/font2.woff": "/static/media/font2.b020f48a6b3644cb3fc0.woff",
+    "static/media/logo_argentina-blanco.svg": "/static/media/logo_argentina-blanco.1d000c02a1b01650ee32359cdd98535e.svg",
+    "static/media/sube-beta-v2_0_4f91251e.png": "/static/media/sube-beta-v2_0_4f91251e.73c13058e39a5e4879b8.png",
+    "static/media/logo_primerolagente.svg": "/static/media/logo_primerolagente.e2e2be7a113f5a03755cd04a3af83a45.svg",
+    "index.html": "/index.html",
+    "main.27b8a6fe.css.map": "/static/css/main.27b8a6fe.css.map",
+    "main.f81b6bd0.js.map": "/static/js/main.f81b6bd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b8a6fe.css",
+    "static/js/main.f81b6bd0.js"
+  ]
+}
